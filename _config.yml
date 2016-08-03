@@ -1,4 +1,3 @@
-layout_spectrum: 0.3949143250938505
 typography_spectrum: 0.3022703332826495
 color:
   brandStrength: 0.8808381401468068
@@ -11,5 +10,7 @@ color:
     - '#BDD684'
     - '#E2F0D6'
     - '#F6FFE0'
+layout_spectrum: 0.3949143250938505
 name: We. Go. Together.
 title: Cornerstone Alliance
+description: Like-minded congregations working together
